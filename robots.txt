@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-hvekpd.salamcuan.online/sitemap.xml
